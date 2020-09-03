@@ -1,3 +1,3 @@
-#Profilime Hoşgeldin!
+
 
 java biliyom
