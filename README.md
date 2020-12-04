@@ -1,4 +1,4 @@
-[**Contact**](https://instagram.com//emreebakkall)
+[**Contact**](https://instagram.com/emreebakkall)
 
 [**Telegram**](https://t.me/rashtion)
 
