@@ -6,7 +6,6 @@
 
 Q | A
 --- | --- 
-**My Computer**  | `assembled`
 **Editor**  | `Visual Studio Code, Sublime Text 3, //IDE: phpStorm, webStorm`
 **Platforms I develop for** | `Web, mobile`
 **Languages I know**  | `PHP`
