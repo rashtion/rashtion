@@ -12,7 +12,7 @@ Q | A
 **Languages I learning** | `JavaScript, Kotlin, GO`
 
 
-(i) | info
+(i)
 --- | ---
 **Joined GitHub on:** | `26 April 2020`
 
