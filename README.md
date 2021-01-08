@@ -10,10 +10,6 @@ Q | A
 **Platforms I develop for** | `Web, mobile`
 **Languages I know**  | `PHP`
 **Languages I learning** | `JavaScript, Kotlin, GO`
-
-
-info | answer
---- | ---
 **Joined GitHub on:** | `26 April 2020`
 
 
