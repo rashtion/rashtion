@@ -1,4 +1,4 @@
-[**Follow me on Insatgram**](https://instagram.com/emreebakkal0)
+[**Follow me on Instagram**](https://instagram.com/emreebakkall0)
 
 
 [**Telegram**](https://t.me/rashtion)
