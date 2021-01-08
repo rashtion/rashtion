@@ -11,5 +11,12 @@ Q | A
 **Languages I know**  | `PHP`
 **Languages I learning** | `JavaScript, Kotlin, GO`
 
+
+(i) | info
+--- | ---
+**Joined GitHub on:** | `26 April 2020`
+
+
+
 <p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rashtion&theme=algolia&show_icons=true" alt="rashtion"/></p>
 
