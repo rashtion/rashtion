@@ -13,7 +13,7 @@ Q | A
 --- | --- 
 **Editor**  | `Visual Studio Code, Sublime Text 3, //IDE: phpStorm, webStorm`
 **Platforms I develop for** | `Web, mobile`
-**Languages I know**  | `PHP`
+**Languages I know**  | `PHP, A little too Java.`
 **Languages I learning** | `JavaScript, Kotlin, GO`
 **Joined GitHub on:** | `26 April 2020`
 
