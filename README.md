@@ -1,18 +1,4 @@
-<img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="120"/>
 
-<i>Hello! welcome to my profile.</i>
+<i>I Quit. Thanks for all.</i>
 
-
-[**Follow me on Instagram**](https://instagram.com/emrebakkal0)
-
-[**Telegram**](https://t.me/rashtion)
-
-[**WebSite**](https://emre-bakkal.com)
-
-Q | A
---- | --- 
-**Editor**  | `Visual Studio Code, Sublime Text 3, //IDE: phpStorm, webStorm`
-**Platforms I develop for** | `Web, mobile`
-
-<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rashtion&theme=algolia&show_icons=true" alt="rashtion"/></p>
 
